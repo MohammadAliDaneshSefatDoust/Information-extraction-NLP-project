@@ -22,4 +22,4 @@ ________________________________________________________________________________
 
 In this section, we will classify the text using one of the machine learning models.
 
-![2](https://user-images.githubusercontent.com/72104345/185800885-b1f19f7a-dd0f-4626-acf1-9b0cacbc23b5.png)
+![3](https://user-images.githubusercontent.com/72104345/185801003-d7a76567-d6e2-42c1-a68a-5c37ec5cbfa2.png)
